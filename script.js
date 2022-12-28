@@ -1,4 +1,4 @@
-const API_KEY = 'AIzaSyCDtLxIGTsoRBZjzRuSttKtMIj6r9PVxKM';
+const API_KEY = 'AIzaSyCDtLxIGTsoRBZjzRuSttKtMIj6r9PVxKMdontaddthis';
 const API_ID = '986770137720-1v0t5rl7ip64j3o7tmqpg3jmm44im0ju.apps.googleusercontent.com';
 const PLAYLIST_ID = document.getElementById('playlist_id').value;
 console.log(PLAYLIST_ID);
